@@ -1,0 +1,39 @@
+{
+    "Doctor":[{
+        "doc_id":"D1",
+        "doc_img":"../../../../Images/docmedicine.jpg",
+        "doc_name":"Dr. Dhaman Ghosh",
+        "doc_department":"Medicine",
+        "doc_qulification":"MBBS, MD(Medicine),DM(Medical Oncology)"
+    },{
+        "doc_id":"D2",
+        "doc_img":"../../../../Images/docgas.jpg",
+        "doc_name":"Dr Mahesh Goenka",
+        "doc_department":"Gastrology",
+        "doc_qulification":"MBBS (1981), MD (1987), DM(Gastro, 1987), MNAMS (1995), FACG, FASGE(USA)"
+    },{
+        "doc_id":"D3",
+        "doc_img":"../../../../Images/doccar.jpg",
+        "doc_name":"Dr Bikash Majumder",
+        "doc_department":"Cardiology",
+        "doc_qulification":"MBBS,MD(MED)(2002),MRCP(2004),MD(Res), CCT(Cardiology)& FRCP"
+    },{
+        "doc_id":"D4",
+        "doc_img":"../../../../Images/docuro.jpg",
+        "doc_name":"Dr Avinash Dutt Sharma",
+        "doc_department":"Urology",
+        "doc_qulification":"MBBS(2003),MS (Gen.Surgery)(2008),MCh(Urology)(2013)"
+    },{
+        "doc_id":"D5",
+        "doc_img":"../../../../Images/doctor3.jpg",
+        "doc_name":"Dr Ramna Banerjee",
+        "doc_department":"Gynecology",
+        "doc_qulification":"MBBS, DGO, MD, DNB, MNAMS, MRCOG (UK)"
+    },{
+        "doc_id":"D6",
+        "doc_img":"../../../../Images/doctor2.jpg",
+        "doc_name":"Dr Rupashree Dasgupta",
+        "doc_department":"Neurology",
+        "doc_qulification":"MD,DM (Neuro), Fellow Stroke and Cerebrovascular diseases from University of Calgary, Canada"
+    }]
+}

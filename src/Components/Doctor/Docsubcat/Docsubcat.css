@@ -1,0 +1,26 @@
+.in1{
+    color: black;
+    background-color: lightblue;
+
+}
+.cards2{
+    background-color: lightgreen !important;
+    position: relative !important;
+    display: inline-block;
+    height: 500px;
+    width: 375px;
+    margin: auto;
+
+}
+.bt3{
+  color:white!important;
+   font-size: 20px !important;
+   background-color: aqua !important ;
+   height: 50px;
+   width: 100%;
+  
+}
+.img22{
+  height: 200px;
+  width: 100%;
+}

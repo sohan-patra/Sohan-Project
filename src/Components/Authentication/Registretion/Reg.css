@@ -1,0 +1,39 @@
+.container15{
+    /* background-color: aquamarine; */
+    background: url("E:/ReactE/finalproject/public/Images/banner1.jpg");
+    height: 760px;
+    width: auto;
+    text-align: center;
+}
+.myform{
+    height: 500px;
+    width: 50%;
+    background-color: lightblue;
+    margin: auto;
+    display: block;
+}
+.form1{
+    display: block;
+    text-align: center;
+    /* background-color: aliceblue; */
+}
+.label1{
+    font-size: 20px;
+    color: coral;
+    font-style: oblique;
+    font-weight: bold;
+    
+}
+input{
+    display: block;
+    width: 90%;
+    height: 40px;
+    background-color: rgb(156, 19, 99);
+    
+}
+.err{
+    text-align: right;
+    color: #0400ff;
+    display: block;
+    font-size: 18px;
+}

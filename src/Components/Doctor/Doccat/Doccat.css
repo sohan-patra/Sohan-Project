@@ -1,0 +1,28 @@
+.main11{
+    width: 90%;
+    height: 70%;
+    margin-left: 30px ;
+    margin-right: 30px;
+    margin: auto;
+    /* padding-left: 40px; */
+    /* padding-right: 40px; */
+   /* padding-bottom: 40px; */
+}
+.img49{
+    height: 200px;
+    width: 100%;
+    
+}
+.list4{
+    display:inline-block;
+    width: 100%;
+    height: 350px;
+    border: 2px solid lightblue;
+    /* margin: auto; */
+    /* height: auto; */
+}
+.b16{
+    width: 200px;
+    height: auto;
+    background-color: bisque;
+}

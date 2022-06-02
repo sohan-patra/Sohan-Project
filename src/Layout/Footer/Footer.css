@@ -1,0 +1,213 @@
+.sigma_info-wrapper.style-26 {
+    background-color: #fff;
+    padding: 20px 50px;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 5%);
+    border-radius: 15px;
+    display: inline-block;
+    align-items: center;
+}
+.ci1{
+    height: 200px !important;
+}
+.sigma_info.style-18, .sigma_info.style-26 {
+    flex: 0 0 33.3%;
+    padding: 10px;
+    background-color: transparent;
+}
+.sigma_info.style-26.sigma_info-title {
+    align-items: center;
+    position: relative;
+    display: flex;
+}
+.sigma_info.style-10 .sigma_info-description, .sigma_info.style-15 .sigma_info-description, .sigma_info.style-17 .sigma_info-description, .sigma_info.style-18 .sigma_info-description, .sigma_info.style-20 .sigma_info-description, .sigma_info.style-26 .sigma_info-description {
+    flex: 1 1;
+}
+.secondary-color {
+    color: #062a3f;
+    color: var(--thm-secondary);
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.container10{
+    display: block ;
+    margin-top: 20px;
+}
+.container11{
+    display: block;
+    margin-left: 15px;
+}
+.s1{
+    margin-top: 20px;
+}
+li {
+    display: inline;
+    text-align: center;
+    position: relative;
+    justify-items: center;
+    padding-left: 20px;
+}
+/* .mb-0{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    width: 100%;
+   
+    padding-left: 42px;
+} */
+.sigma_social-icons {
+    display: bolck;
+    align-items: center;
+    justify-content: center;
+    transition: .3s;
+    margin-top: 15px;
+}
+/* .sigma_footer-widget {
+    padding-bottom: 50px;
+    height: 100%;
+} */
+.widget-title {
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 1.3;
+    text-align: center;
+    
+}
+.sigma_footer-links {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    /* margin: 25px 0; */
+}
+.list{
+    display: block;
+    text-align:center;
+    padding-right: 29px;
+    height: 30px;
+}
+.pan{
+    width: auto;
+}
+.mylogo1{
+    /* height: 300px; */
+    width: 300px;
+}
+.f2{
+    display: block;
+    margin-top: 0em;
+    font-size: 16px;
+    line-height: 1.8;
+}
+.input[type=email]{
+    position: relative;
+    display: block;
+    height: 60px;
+    width: 100%;
+    color: #686a6f;
+    padding: 14px 30px;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+.btn-block {
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+   background-color: green;
+    position: relative;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 17px 30px;
+}
+.mt-3{
+    margin-top: 1rem!important;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.main2{
+    background-color: aliceblue;
+}
+.but{
+    display: block;
+    background-color: lightcyan;
+}
+.container11{
+    height: 800px;
+}
+.container12{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.sigma_footer-bottom {
+    /* border-top: 1px solid #ebf2f3; */
+    /* border-top: 1px solid var(--thm-border); */
+    /* padding: 5px 0; */
+    /* margin-top: 30px; */
+    text-align: left;
+    width: 50%;
+    float: left;
+    color: #062a3f;
+    margin-bottom: 1px;
+}
+.sigma_footer-copyright{
+    display: inline-block;
+    text-align: left;
+}
+.p4{
+    font-size: 15px;
+    color: #062a3f;
+    margin-bottom: 2px;
+}
+.ullink{
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+    text-align: right;
+    position: absolute;
+    /* margin: auto; */
+    width: 100%;
+    float: right;
+    /* padding: 5px 0; */
+     margin-top: 4px;
+    /* padding-top: 3px;  */
+    /* background-color: blue; */
+}
+
+.list1{
+    display: inline-block;
+}
+/* .unlink{
+    align-items: right;
+} */
+/* .main2{
+    height: 500px;
+} */
+/* .s3{
+    background-color: lightblue;
+    width: 100%;
+    height: 30px;
+} */

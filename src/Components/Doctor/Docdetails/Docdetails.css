@@ -1,0 +1,31 @@
+.warper2{
+    height: 360px;
+    width: 90%;
+    margin: 30px auto;
+    padding: 10px;
+    background-color: lightgreen;
+    padding-bottom: 40px;
+}
+.pd2{
+    width: 100%;
+    height: 300px;
+}
+.left2{
+    width:50%;
+    float: left;
+    height: 300px;
+    /* background-image:url("building.png"); */
+    /* background-repeat: no-repeat; */
+     background-color:  rgb(211, 13, 230); 
+    
+
+}
+
+.right2{
+    width: 50%;
+    height: 300px;
+    /* padding-left: 2px; */
+    float: right;
+    background: lightblue;
+    /* margin: auto; */
+}

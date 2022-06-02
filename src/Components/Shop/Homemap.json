@@ -1,0 +1,39 @@
+{
+    "Homemap":[{
+        "prod_id": "p01",
+        "prod_img": "../../../../Images/paracetamal.jpg",
+        "prod_name": "Paracetamol 650",
+        "prod_price":"50",
+        "prod_des": "MG Tablet is the most widely used over-the-counter (OTC) medication. It is used for the treatment of fever."
+    },{
+        "prod_id": "p02",
+        "prod_img": "../../../../Images/pand.jpg",
+        "prod_name": "Pan-D Capsule",
+        "prod_price":"100",
+        "prod_des": "Pan-D Capsule PR is a prescription medicine used to treat gastroesophageal reflux disease (Acid reflux) and peptic ulcer disease by relieving the symptoms of acidity such as indigestion, heartburn, stomach pain, or irritation."
+    },{
+        "prod_id": "p03",
+        "prod_img": "../../../../Images/paracetamal.jpg",
+        "prod_name": "Telvas-CT 40",
+        "prod_price":"75",
+        "prod_des": "Telvas-CT 40 Tablet contains two medicines, both of which help to control high blood pressure. Lowering blood pressure helps to reduce your risk of having a heart attack or a stroke in the future."
+    },{
+        "prod_id": "p04",
+        "prod_img": "../../../../Images/mask.png",
+        "prod_name": "Mask",
+        "prod_price":"5",
+        "prod_des": "Layered prevention strategies — like staying up to date on vaccines and wearing masks — can help prevent severe illness and reduce the potential for strain on the healthcare system."
+    },{
+        "prod_id": "p05",
+        "prod_img": "../../../../Images/sanitizer.png",
+        "prod_name": "Sanitizer",
+        "prod_price":"150",
+        "prod_des": "Hand sanitizers also may not remove harmful chemicals, such as pesticides and heavy metals like lead."
+    },{
+        "prod_id": "p06",
+        "prod_img": "../../../../Images/thermometer.png",
+        "prod_name": "Thermometer",
+        "prod_price":"250",
+        "prod_des": "A thermometer is a device that enables you to measure your temperature or temperature gradient."
+    }]
+}

@@ -1,0 +1,118 @@
+{
+    "Doctor2": [
+        {
+            "d_id": "Doc1",
+            "d_img": "../../../../Images/allmedicine.jpg",
+            "d_name": "Medicine",
+            "dsub_cat": [
+                {
+                    "dsub_id": "M1",
+                    "dsub_img": "../../../../Images/docmedicine.jpg",
+                    "dsub_name": "Dr. Dhaman Ghosh",
+                    "dsub_qulification": "MBBS, MD(Medicine),DM(Medical Oncology)"
+                },
+                {
+                    "dsub_id": "M2",
+                    "dsub_img": "../../../../Images/docmedicine2.jpg",
+                    "dsub_name": "Dr Arup Sahu",
+                    "dsub_qulification": "MBBS, MD(Medicine)"
+                }
+            ]
+        },
+        {
+            "d_id": "Doc2",
+            "d_img": "../../../../Images/cardiology.jpg",
+            "d_name": "Cardiology",
+            "dsub_cat": [
+                {
+                    "dsub_id": "C1",
+                    "dsub_img": "../../../../Images/doccar.jpg",
+                    "dsub_name": "Dr Bikash Majumder",
+                    "dsub_qulification": "MBBS,MD(MED)(2002),MRCP(2004),MD(Res), CCT(Cardiology)& FRCP"
+                },
+                {
+                    "dsub_id": "C2",
+                    "dsub_img": "../../../../Images/doccar2.png",
+                    "dsub_name": "Dr. Suchit Majumdar",
+                    "dsub_qulification": "MBBS, MD - General Medicine, DM - Cardiology"
+                }
+            ]
+        },
+        {
+            "d_id": "Doc3",
+            "d_img": "../../../../Images/nurology.jpg",
+            "d_name": "Neurology",
+            "dsub_cat": [
+                {
+                    "dsub_id": "N1",
+                    "dsub_img": "../../../../Images/doctor2.jpg",
+                    "dsub_name": "Dr Rupashree Dasgupta",
+                    "dsub_qulification": "MD,DM (Neuro), Fellow Stroke and Cerebrovascular diseases from University of Calgary, Canada"
+                },
+                {
+                    "dsub_id": "N2",
+                    "dsub_img": "../../../../Images/docnuro2.png",
+                    "dsub_name": "Dr. Debabrata Chakraborty",
+                    "dsub_qulification": "MBBS, MD - General Medicine, DM - Neurology"
+                }
+            ]
+        },
+        {
+            "d_id": "Doc4",
+            "d_img": "../../../../Images/ortho.jpg",
+            "d_name": "Orthopedist",
+            "dsub_cat": [
+                {
+                    "dsub_id": "O1",
+                    "dsub_img": "../../../../Images/docortho1.jpg",
+                    "dsub_name": "Dr. Abheek Kar",
+                    "dsub_qulification": "MBBS, MS - Orthopaedics"
+                },
+                {
+                    "dsub_id": "O2",
+                    "dsub_img": "../../../../Images/docortho2.jpg",
+                    "dsub_name": "Dr. Debasish Banarjee",
+                    "dsub_qulification": "MBBS, FRCS - Trauma & Orthopedic Surgery 36 years experience overall"
+                }
+            ]
+        },
+        {
+            "d_id": "Doc5",
+            "d_img": "../../../../Images/gastology.jpg",
+            "d_name": "Gastrology",
+            "dsub_cat": [
+                {
+                    "dsub_id": "G1",
+                    "dsub_img": "../../../../Images/docgas.jpg",
+                    "dsub_name": "Dr. Arnab Basak",
+                    "dsub_qulification": "MBBS, MD - Medicine, DM - Gastroenterology"
+                },
+                {
+                    "dsub_id": "G2",
+                    "dsub_img": "../../../../Images/docgas2.jpg",
+                    "dsub_name": "Dr. Mahesh Kumar Goanka",
+                    "dsub_qulification": "MBBS, MD - Medicine, DM - Gastroenterology"
+                }
+            ]
+        },
+        {
+            "d_id": "Doc6",
+            "d_img": "../../../../Images/gynology.jpg",
+            "d_name": "Gynecology",
+            "dsub_cat": [
+                {
+                    "dsub_id": "Gy1",
+                    "dsub_img": "../../../../Images/doctor3.jpg",
+                    "dsub_name": "Dr Rupashree Dasgupta",
+                    "dsub_qulification": "MBBS, MS - Obstetrics & Gynaecology, MRCOG(UK)"
+                },
+                {
+                    "dsub_id": "Gy2",
+                    "dsub_img": "../../../../Images/docgyno2.png",
+                    "dsub_name": "Dr. Sharmishtha Patra",
+                    "dsub_qulification": "MBBS, MD - Obstetrics & Gynaecology, MRCOG(UK)"
+                }
+            ]
+        }
+    ]
+}
